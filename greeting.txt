@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a new message
+=======
+This should have been appended to the original content, rather than overwriting it.
+>>>>>>> parent of 8c1df67... initial commit
